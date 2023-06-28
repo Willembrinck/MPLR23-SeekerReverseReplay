@@ -1,4 +1,4 @@
-## Debugger Installation
+## Seeker Debugger Installation
 Seeker: Prototype Scriptable Time-Traveling Queryable Debugger.
 
 1. Download Pharo, and create a new Pharo 11 image.
