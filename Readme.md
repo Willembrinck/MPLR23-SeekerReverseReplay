@@ -13,7 +13,7 @@ Metacello new
 
 ## Undoing Writing Operations 
 
-All the code related to undoing writing operations is in the class: 
+All the code related to undoing writing operations is in the class: `SkSelectiveExecutionRestorer` https://github.com/maxwills/SeekerDebugger/blob/mplr23/Seeker/SkSelectiveExecutionRestorer.class.st
 
 ## Experiments Raw Data
 
