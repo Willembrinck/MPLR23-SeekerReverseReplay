@@ -7,7 +7,7 @@ The masked text will be replaced by the actual one after the review process.
 
 ## Undoing Writing Operations 
 
-All the code related to undoing writing operations is in the class: `SkSelectiveExecutionRestorer` (file included in the repository)
+All the code related to undoing writing operations is in the included file: `SelectiveExecutionRestorerCode.class.st`
 
 ## Experiment Raw Data
 
