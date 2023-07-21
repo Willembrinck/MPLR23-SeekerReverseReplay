@@ -9,8 +9,9 @@ The masked text will be replaced by the actual one after the review process.
 
 All the code related to undoing writing operations is in the class: `SkSelectiveExecutionRestorer` (file included in the repository)
 
-## Experiments Raw Data
+## Experiment Raw Data
 
+See file Exp2RawData.csv
 
 ## Instructions to Replicate Experiments
 
